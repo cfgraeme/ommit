@@ -1,0 +1,32 @@
+# editors
+.idea/
+.vscode/
+.sublimelinterrc
+*.sublime-workspace
+*.sublime-project
+*.orig
+
+
+# code cruft
+*.sqlite3
+*.sw[op]
+__pycache__/
+*.py[cod]
+
+.coverage**
+.DS_Store
+.data
+.mypy_cache/
+.pytest_cache/
+leaflink/env.py
+.hooks
+prof/
+.pre-commit-config.yaml
+
+./.env
+*.env
+.python-version
+# virtual environments
+.venv
+env
+venv
